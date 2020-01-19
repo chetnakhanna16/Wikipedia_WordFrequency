@@ -1,4 +1,4 @@
-## Project name: Wikipedia Text Analyzer to map work frequency
+## Project name: Wikipedia Text Analyzer to map word frequency
 ![Wikipedia Text Analyzer to map work frequency](https://github.com/chetnakhanna16/Wikipedia_WordFrequency/blob/master/freqDist.png)
 
 **Jupyter Notebook:** https://github.com/chetnakhanna16/Wikipedia_WordFrequency/blob/master/Wikipedia_WordFrequency.ipynb  
